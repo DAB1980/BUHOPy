@@ -1,18 +1,1 @@
-{
-  "version": "2.0.2",
-  "notes": "Actualización de componentes y mejoras de interfaz.",
-  "assets": [
-    {
-      "name": "BUHO.exe",
-      "url": "https://drive.google.com/uc?export=download&id=1hXCpwI2v9lnj8W0Y3iNItxvyUU3dmuuz",
-      "destination": ".",
-      "sha256": "9fcf552d73aae0961717618dcc2819cbe5a9dfe831e93ed2966e226d593e42d0"
-    },
-    {
-      "name": "_internal",
-      "url": "https://drive.google.com/uc?export=download&id=1PXf-2K-cDL6otKHFiN1rjTQnFtCGERa8",
-      "destination": "_internal",
-      "sha256": "d084709547a047239d20908cb9afde6c48a47a973191cc07c708bd1bf408bbf4"
-    }
-  ]
-}
+
